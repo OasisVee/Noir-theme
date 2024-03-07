@@ -1,0 +1,43 @@
+{
+    "manifest": {
+        "author": "._.serinova._.",
+        "name": "Noir",
+        "version": "1.0.0"
+    },
+    "background": {
+        "overlay_alpha": 180,
+        "url": "https:\/\/raw.githubusercontent.com\/OasisVee\/Noir-theme\/main\/for%20theme\/noir_pic.png"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/OasisVee\/Noir-theme\/raw\/main\/for%20theme\/Newsreader_36pt-Regular.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 838860800,
+        "statusbar": -16777216,
+        "active_channel": -9342607,
+        "accent": -5525840,
+        "mention_highlight": -11447210,
+        "input_background": -14211031
+    },
+    "colors": {
+        "primary_dark_300": -8355712,
+        "primary_600": -14013910,
+        "uikit_btn_bg_color_selector_red": -8224126,
+        "uikit_settings_item_text_color_light": -11184811,
+        "uikit_btn_bg_color_selector_green": -5000269,
+        "primary_dark_660": -14211031,
+        "uikit_btn_compound_color_selector_dark": -10132123,
+        "primary_dark_400": -8355712,
+        "brand_new_360": -11184811,
+        "link": -5788243
+    },
+    "drawable_tints": {
+        "ic_status_dnd_16dp": -10523539,
+        "ic_status_idle_16dp": -5655114,
+        "ic_status_online_16dp": -2499620,
+        "ic_group_leave": -11576741,
+        "ic_delete_24dp": -7101789
+    },
+    "raws": {}
+}
