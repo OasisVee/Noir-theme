@@ -2,7 +2,7 @@
     "manifest": {
         "author": "._.serinova._.",
         "name": "Noir",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "updater": "https:\/\/raw.githubusercontent.com\/OasisVee\/Noir-theme\/main\/Noir.json"
     },
     "background": {
@@ -24,7 +24,7 @@
     "colors": {
         "primary_dark_300": -8355712,
         "primary_600": -14013910,
-        "uikit_btn_bg_color_selector_red": -8224126,
+        "uikit_btn_bg_color_selector_red": -12362905,
         "uikit_settings_item_text_color_light": -11184811,
         "uikit_btn_bg_color_selector_green": -5000269,
         "primary_dark_660": -14211031,
