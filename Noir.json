@@ -2,7 +2,7 @@
     "manifest": {
         "author": "._.serinova._.",
         "name": "Noir",
-        "version": "1.0.3",
+        "version": "1.0.0",
         "updater": "https:\/\/raw.githubusercontent.com\/OasisVee\/Noir-theme\/main\/Noir.json"
     },
     "background": {
